@@ -1,0 +1,13 @@
+C:\Users\dkali\source\repos\MiddleAges\bin\Debug\netcoreapp3.1\MiddleAges.exe
+C:\Users\dkali\source\repos\MiddleAges\bin\Debug\netcoreapp3.1\MiddleAges.deps.json
+C:\Users\dkali\source\repos\MiddleAges\bin\Debug\netcoreapp3.1\MiddleAges.runtimeconfig.json
+C:\Users\dkali\source\repos\MiddleAges\bin\Debug\netcoreapp3.1\MiddleAges.runtimeconfig.dev.json
+C:\Users\dkali\source\repos\MiddleAges\bin\Debug\netcoreapp3.1\MiddleAges.dll
+C:\Users\dkali\source\repos\MiddleAges\bin\Debug\netcoreapp3.1\MiddleAges.pdb
+C:\Users\dkali\source\repos\MiddleAges\obj\Debug\netcoreapp3.1\MiddleAges.csprojAssemblyReference.cache
+C:\Users\dkali\source\repos\MiddleAges\obj\Debug\netcoreapp3.1\MiddleAges.AssemblyInfoInputs.cache
+C:\Users\dkali\source\repos\MiddleAges\obj\Debug\netcoreapp3.1\MiddleAges.AssemblyInfo.cs
+C:\Users\dkali\source\repos\MiddleAges\obj\Debug\netcoreapp3.1\MiddleAges.csproj.CoreCompileInputs.cache
+C:\Users\dkali\source\repos\MiddleAges\obj\Debug\netcoreapp3.1\MiddleAges.dll
+C:\Users\dkali\source\repos\MiddleAges\obj\Debug\netcoreapp3.1\MiddleAges.pdb
+C:\Users\dkali\source\repos\MiddleAges\obj\Debug\netcoreapp3.1\MiddleAges.genruntimeconfig.cache
